@@ -1,7 +1,7 @@
 # Estructura If
 
 # Definir variable edad
-edad = 25
+edad = 8
 
 # Evaluar si una persona de acuerdo a la edad es menor de edad
 if edad < 18:

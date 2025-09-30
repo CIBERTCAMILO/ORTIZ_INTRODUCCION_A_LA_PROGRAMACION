@@ -1,4 +1,4 @@
-comprobante = "boleta"
+comprobante = "factura"
 monto = 100
 
 if comprobante == "factura":
